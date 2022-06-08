@@ -1,3 +1,3 @@
 # CS490-Machine-Learning
-# Machine Learning Projects from CS480 (All in Jupyter Notebook)
-# All Projects in seperate branches
+# Topic: Linear Regression and Cross Validation
+# Data set: curve80.txt
